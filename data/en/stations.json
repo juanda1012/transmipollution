@@ -1,0 +1,92 @@
+{
+  "stations": [
+    {
+      "title": "Portal Américas: Troncal Américas",
+      "id": 1,
+      "description": "Inaugurated in 2003, it is one of the head stations of Transmilenio, Bogotá's mass transit system in Colombia. ",
+      "location": "Portal de Las Américas is located in the southwestern sector of the city, more specifically on Avenida Ciudad de Cali with Avenida Ciudad de Villavicencio in the district of Kennedy; however, most of its feeder routes belong to the district of Bosa.",
+      "pollution": "The Americas portal sector has a contamination of 67 (40 ug/m 3) Pm 2.5 concentrations in micrograms per cubic meter",
+      "tips": "The air quality is unhealthy; the entire population can experience health effects and the risk groups much more serious effects. The population with respiratory problems, children and the elderly should avoid prolonged or active outdoor exertion. The general population should limit prolonged outdoor exertion."
+    },
+    {
+      "title": "Banderas: Troncal Américas",
+      "id": 2,
+      "description": "The Banderas intermediate station is part of Bogotá's mass transit system called Transmilenio, which was inaugurated in 2000. The station is named after the Monument to flags, built in 1948.",
+      "location": "The station is located in the southwest of the city, more specifically on Avenida de Las Américas between Carreras 75 and 78G. It has several access points: the main one is through a pedestrian bridge located on Carrera 78G, another one consists of a simple entrance on the north side on Carrera 78A, and the last one, which is of the same style, is located on the south side on Carrera 78B.",
+      "pollution": "The sector of the banderas station has a contamination of 67 (40 ug/m 3) concentrations of Pm 2.5 in micrograms per cubic meter.",
+      "tips": "The air quality is unhealthy, the whole population can experience health effects and the risk groups much more serious effects. The population with respiratory problems, children and the elderly should avoid prolonged or active outdoor exertion. The general population should limit prolonged outdoor exertion."
+    },
+    {
+      "title": "Las aguas: “Eje ambiental",
+      "id": 3,
+      "description": "Las Aguas station is part of Bogotá's mass transit system called Transmilenio inaugurated in 2000.  In 2002, when the Eje Ambiental branch was put into operation, this station was put into operation, together with those of Museo del Oro and Avenida Jiménez in 2003. The station is named after the church and the neighborhood of the same name located in the town of La Candelaria, the historic center of Bogota. ",
+      "location": "The station is located in the historic center of the city, more specifically on Carrera 3 between Calle 18 and Avenida Ciudad de Lima. It can be accessed in two different ways: through simple entrances located on 18th Street and Ciudad de Lima Avenue, and since April 27, 2013, through a subway tunnel that connects it to Universidades station. ",
+      "pollution": "The sector of the station las aguas has a contamination of 38 (14 ug/m 3) concentrations of Pm 2.5 in micrograms per cubic meter.",
+      "tips": "The air quality is satisfactory and there is little or no health risk, Any outdoor activity can be performed. "
+    },
+    {
+      "title": "Portal del norte: Troncal norte",
+      "id": 4,
+      "description": "'Portal del Norte' is one of the head stations or terminals of the Bogotá Transmilenio Mass Transit System. It is part of the first phase of the system, which was inaugurated in 2000.",
+      "location": "Portal del Norte is located in the northern sector of the city, more specifically on Autopista Norte between streets 172 and 176. Its pedestrian access is provided by a pedestrian bridge located on Calle 174",
+      "pollution": "The North portal sector has a contamination of 38 (8 ug/m 3) Pm 2.5 concentrations in micrograms per cubic meter",
+      "tips": "The air quality is satisfactory however it is a few micrograms away from being moderate, any outdoor activity can be performed, it is recommended not to be outdoors for a long time if you have any symptoms of respiratory disease"
+    },
+    {
+      "title": "Portal el dorado: Troncal calle 26",
+      "id": 5,
+      "description": "Portal El dorado, inaugurated in 2012, is one of the terminal or head stations of Transmilenio, Bogota's mass transit system. This station is part of Phase III of the Transmilenio system that began construction in late 2009 and, after several delays related to corruption cases, began operations on Saturday, June 30, 2012.",
+      "location": "The El Dorado Portal is located in the west of the city, on Avenida El Dorado between Avenida Cali and Transversal 93, and is accessed by pedestrian bridges located on these two roads.",
+      "pollution": "The El Dorado portal sector has a contamination of 57 (38 ug/m 3) Pm 2.5 concentrations in micrograms per cubic meter.",
+      "tips": "Air quality is regular, people who are part of sensitive groups may present moderate symptoms. Consider reducing or rescheduling strenuous outdoor activities if you experience symptoms, coughing or throat irritation."
+    },
+    {
+      "title": "Portal 20 de julio: Troncal Decima",
+      "id": 6,
+      "description": "Portal 20 de Julio is one of the terminal or head stations that are part of the mass transit system of Bogota, Transmilenio, inaugurated in 2000. This station is part of Phase III of Transmilenio, which began construction in late 2009 and was put into service along with the carrera décima trunk line in September 2012.",
+      "location": "The 20 de Julio portal is located in the southeast of the city, on Carrera 5A between Calle 30A Sur and Calle 32 Sur. It has an easy pedestrian access on Calle 31 Sur. It was developed on a site where the Moore pipe factory used to operate.",
+      "pollution": "The July 20 portal sector has a contamination of 34 (7 ug/m 3) Pm 2.5 concentrations in micrograms per cubic meter.",
+      "tips": "The air quality in this sector is good, enjoy your daily activities, ideal air quality for outdoor activities."
+    },
+    {
+      "title": "Portal Usme: Troncal caracas sur",
+      "id": 7,
+      "description": "Portal de Usme is one of the head stations of Bogota's mass transit system called Transmilenio inaugurated in 2000. In August 2001, a few months after the inauguration of the system, Portal de Usme was inaugurated, being the second head station of the Transmilenio system to be put into operation",
+      "location": "The Usme Portal is located in the southeast of the city, specifically on Avenida Caracas south of the national penitentiary of La Picota at the intersection of the extension of Avenida Boyacá (with Calle 63 sur). The Portal serves the Porvenir, Barranquillita, Nuevo San Andrés, La Aurora and surrounding neighborhoods. ",
+      "pollution": "The Usme Portal sector has a contamination of 20 (7.21 ug/m 3) concentrations of Pm 2.5 in micrograms per cubic meter.",
+      "tips": "Acceptable air quality, although some pollutants may pose a slight health risk to risk groups and individuals sensitive to pollution. For risk groups and sensitive individuals: consider reducing prolonged and active outdoor activities. It is not dangerous to be outdoors, but take more breaks and reduce the intensity of activity. General population: Watch for symptoms such as coughing or shortness of breath and, if they appear, consider reducing prolonged or active outdoor exposure. "
+    },
+    {
+      "title": "Portal del Tunal: Troncal caracas sur",
+      "id": 8,
+      "description": "Portal del Tunal is one of the head stations of Bogota's mass transit system, Transmilenio inaugurated in 2000. Since the end of 2018 it became a transfer station between the Transmilenio system and the TransMiCable aerial cable system to the locality of Ciudad Bolivar. ",
+      "location": "Portal del Tunal is located in the southeastern sector of the city, in the locality of Tunjuelito, in front of El Tunal Park and specifically at the intersection of Avenida Boyacá and Avenida Mariscal Sucre (Carrera 24) with Avenida Ciudad de Villavicencio. It has a pedestrian access via a pedestrian bridge located at the height of Avenida Mariscal Sucre.",
+      "pollution": "The Tunal portal sector has a contamination of 42 (20 ug/m 3) concentrations of Pm 2.5 in micrograms per cubic meter.",
+      "tips": "Unhealthy air quality for risk groups, Members of risk groups may experience health effects, but the general population is not affected. The population with respiratory problems, children and the elderly should reduce prolonged or active outdoor exertion. "
+    },
+    {
+      "title": "Portal Suba: Troncal suba",
+      "id": 9,
+      "description": "Portal de Suba, inaugurated in 2006, is one of the head stations or terminals of Transmilenio, Bogota's mass transit system. The station began operating on April 29, 2006, after several months of delay, especially in the areas of the Avenida Suba / Avenida NQS / Calle 80 / Calle 170 interchange and in Alto de la Virgen. ",
+      "location": "The Suba Portal is located in the northwestern sector of the city, more specifically on Avenida Suba and Avenida Ciudad de Cali. It serves the demand of the neighborhoods Almendros Norte, El Poa, El Pinar, Tibabuyes, Turingia, Lombardía, Pinos de Lombardía and surrounding areas. ",
+      "pollution": "The Tunal portal sector has a contamination of 38 (3 ug/m 3) Pm 2.5 concentrations in micrograms per cubic meter.",
+      "tips": "Air quality is moderate probably not affecting the general population, but may present a moderate risk for risk groups. Risk groups and sensitive persons: Reduce prolonged and active outdoor activities. People with asthma or respiratory disease should carefully follow their medication plan and use their inhaler more frequently. Adults with heart problems may experience palpitations, difficulty breathing or unusual fatigue; if this occurs, seek medical attention. General population: Watch for symptoms such as coughing, throat irritation, shortness of breath, excessive fatigue or palpitations. If they occur, reduce prolonged, active outdoor activities "
+    },
+    {
+      "title": "Portal 80: Troncal 80",
+      "id": 10,
+      "description": "'Portal de la 80' is one of the head stations or terminals of Bogotá's mass transit system called Transmilenio, which was inaugurated in 2000. The station receives its name because it is the head station of the Calle 80 line of Transmilenio. However, the extension of the trunk line to the Guadua Bridge with the Bogota River bordering the municipality of Cota is planned. ",
+      "location": "Portal de la 80 is located in the northwestern sector of the city, more specifically on Avenida Medellín between Avenida Longitudinal de Occidente and Carrera 100. Its pedestrian access is located on Carrera 100, in front of the Portal 80 shopping center.",
+      "pollution": "The Tunal Portal sector has a contamination of 55 (24.73 ug/m 3) Pm 2.5 concentrations in micrograms per cubic meter.",
+      "tips": "The air quality is unhealthy, the whole population can experience health effects and the risk groups much more serious effects. The population with respiratory problems, children and the elderly should avoid prolonged or active outdoor exertion. The general population should limit prolonged outdoor exertion."
+    },
+    {
+      "title": "Portal del sur: Troncal sur",
+      "id": 11,
+      "description": "Portal del Sur, inaugurated in 2006, is one of the head-end stations of Transmilenio, Bogotá's mass transit system. The station is named for being the head station of the NQS Sur line (within the Bogotá area), and for being one of the three terminal stations located in the south of Bogotá. The other two adopt the name of the area where they are located so it was decided to give the name 'Sur' to this terminal in addition to its clear location in the south of the city. ",
+      "location": "Portal del Sur is located in the southwest sector of the city, specifically on Autopista Sur between Carrera 72D and Transversal 73I, in the district of Bosa. It has pedestrian access through a simple entrance located on Carrera 73. It serves the demand of the neighborhoods of Cementerio Jardines Apogeo, Barlovento, Galicia, La Estancia, Olarte and surrounding areas ",
+      "pollution": "The Tunal portal sector has a contamination of 114 (24 ug/m 3) Pm 2.5 concentrations in micrograms per cubic meter.",
+      "tips": "The air quality is unhealthy, the whole population can experience health effects and the risk groups much more serious effects. The population with respiratory problems, children and the elderly should avoid prolonged or active outdoor exertion. The general population should limit prolonged outdoor exertion."
+    }
+  ]
+}

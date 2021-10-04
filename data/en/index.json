@@ -1,0 +1,18 @@
+{
+  "pollution": {
+    "name": "Pollution",
+    "info": "There are some affectations due to the gases emitted by the mass transportation system Transmilenio which is transforming pure air into polluting particles coming from Diesel, generating in the users respiratory diseases causing emergency calls to health experts for respiratory problems."
+  },
+  "gallery": {
+    "name": "Gallery",
+    "info": "You can find images of the smoke coming out of the buses and also tables and graphs about the pollution caused by the Transmilenio."
+  },
+  "software": {
+    "name": "Software",
+    "info": "General information on the main stations of the Transmilenio trunk lines, pollution generated in the sectors of these stations and health effects due to particulate matter."
+  },
+  "topic": {
+    "name": "Topic",
+    "info": "Diesel fuel produces particulate matter that remains in the air, which affects the health of the capital's residents"
+  }
+}

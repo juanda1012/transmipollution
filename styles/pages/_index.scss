@@ -1,0 +1,138 @@
+.mainContent {
+  margin-top: 90px;
+  scroll-margin-top: 90px;
+  .info__head {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    scroll-margin-top: 110px;
+    text-align: center;
+    margin-bottom: 30px;
+    h2 {
+      font-size: 3em;
+      margin: 0;
+      font-weight: bold;
+      color: #cc5f5f;
+    }
+    p {
+      font-size: 1.2em;
+    }
+  }
+
+  .additionalContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 60px 80px;
+    text-align: center;
+    h2 {
+      font-size: 2.3em;
+      font-weight: bold;
+    }
+    p {
+      padding: 30px;
+      border-radius: 8px;
+      background: #fff;
+      font-size: 1.3em;
+    }
+  }
+
+  .infoContainer {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+    .info__item {
+      height: 400px;
+      width: 500px;
+      background: #fff;
+      border-radius: 8px;
+      -webkit-box-shadow: 2px 4px 19px 1px rgba(0, 0, 0, 0.22);
+      box-shadow: 2px 4px 19px 1px rgba(0, 0, 0, 0.22);
+      .ant-image {
+        height: 50%;
+        width: 100%;
+        border-radius: 8px;
+        .card__image {
+          height: 100%;
+          border-top-left-radius: 8px;
+          border-top-right-radius: 8px;
+          object-fit: cover;
+        }
+      }
+      .card__info {
+        height: 45%;
+        padding: 20px;
+        overflow-y: hidden;
+        text-align: justify;
+        .card__title {
+          font-weight: bold;
+          color: #cc5f5f;
+        }
+        .card__link {
+          text-decoration: underline;
+          cursor: pointer;
+          &:hover {
+            color: #dd9797;
+          }
+        }
+      }
+    }
+  }
+
+  .calculateQuality {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    h2 {
+      font-size: 2.2em;
+    }
+    .form {
+      .ant-form-item {
+        margin: 10px 0;
+        .ant-form-item-label {
+          width: 40%;
+          text-align: center;
+        }
+      }
+      .button {
+        .ant-btn {
+          width: 100%;
+        }
+      }
+    }
+    .info {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin: 20px 0;
+    }
+    .table__image {
+      margin-bottom: 20px;
+    }
+  }
+}
+
+.footerContainer {
+  margin-top: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 130px;
+  background-color: #f0f0f0;
+  border-color: #8c8c8c;
+  .ant-image {
+    margin-right: 150px;
+    height: 80%;
+    .footer__image {
+      height: 100%;
+    }
+  }
+  .footer__info {
+    font-weight: bold;
+  }
+}

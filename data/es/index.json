@@ -1,0 +1,18 @@
+{
+  "pollution": {
+    "name": "Contaminación",
+    "info": "Hay unas afectaciones por causas de los gases emitidos por el sistema de transporte masivo Transmilenio el cual está transformando un aire “puro” en partículas contaminantes provenientes del Diésel generando en los usuarios enfermedades respiratorias provocando llamadas de emergencias a expertos en la salud por problemas respiratorios."
+  },
+  "gallery": {
+    "name": "Galeria",
+    "info": "Podrás encontrar imágenes del humo que sale de los buses y además de esto tablas y graficas sobre la contaminación que provoca el Transmilenio."
+  },
+  "software": {
+    "name": "Software",
+    "info": "Información general sobre las estaciones principales de las troncales de Transmilenio, contaminación generada en los sectores de dichas estaciones y afectaciones a la salud por el material particulado."
+  },
+  "topic": {
+    "name": "Tema",
+    "info": "El combustible diese produce material particulado que se mantiene en el aire, lo que provoca afectaciones a la salud de los capitalinos."
+  }
+}

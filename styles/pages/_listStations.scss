@@ -1,0 +1,33 @@
+.stationsContainer {
+  margin-top: 90px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  .cardContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 60px;
+    overflow-y: scroll;
+    width: 90%;
+    height: 90%;
+    background-color: #fff;
+    -webkit-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.33);
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.33);
+    border-radius: 8px;
+    align-self: center;
+    justify-self: center;
+
+    h2 {
+      margin-top: 10px;
+      font-size: 2em;
+      font-weight: bold;
+      color: #cc5f5f;
+    }
+    b {
+      font-size: 1.3em;
+      color: #dd6969;
+    }
+    p {
+      font-size: 1.2em;
+    }
+  }
+}

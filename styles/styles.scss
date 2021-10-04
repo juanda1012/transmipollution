@@ -1,0 +1,12 @@
+// config
+@import "./base/settings";
+@import "./base/globals.scss";
+// components
+@import "./components/NavBar";
+@import "./components/Carousel";
+// pages
+@import "./pages/index";
+@import "./pages/station";
+@import "./pages/listStations";
+// leaflet
+@import "./base/leaflet";

@@ -1,0 +1,92 @@
+{
+  "stations": [
+    {
+      "title": "Portal Américas: Troncal Américas",
+      "id": 1,
+      "description": "Inaugurado en el año 2003, es una de las estaciones de cabecera de Transmilenio, sistema de transporte masivo de Bogotá en Colombia",
+      "location": "El Portal de Las Américas está ubicado en el sector suroccidental de la ciudad, más específicamente sobre la Avenida Ciudad de Cali con Avenida Ciudad de Villavicencio en la localidad de Kennedy, sin embargo, gran parte de sus rutas alimentadoras pertenecen a la localidad de Bosa.",
+      "pollution": "El sector del portal Américas tiene una contaminación de 67 (40 ug/m 3) concentraciones de Pm 2.5 en microgramos por metro cubico.",
+      "tips": "La calidad del aire es insana, toda lo población puede experimentar efectos sobre la salud y los grupos de riesgo efectos mucho más serios. La población con problemas respiratorios, los niños y las personas mayores deben evitar el esfuerzo prolongado o activo en exteriores. La población general debe limitar el esfuerzo prolongado en exteriores."
+    },
+    {
+      "title": "Banderas: Troncal Américas",
+      "id": 2,
+      "description": "La estación intermedia Banderas hace parte del sistema de transporte masivo de Bogotá llamado Transmilenio, el cual fue inaugurado en el año 2000. La estación recibe su nombre del Monumento a las Banderas, construido en el año de 1948.",
+      "location": "La estación se encuentra ubicada en el suroccidente de la ciudad, más específicamente en la Avenida de Las Américas entre carreras 75 y 78G. Cuenta con varios puntos de acceso: el principal que es a través de un puente peatonal ubicado sobre la Carrera 78G, otro que consiste en una entrada sencilla, al costado norte sobre la Carrera 78A, y el último que es del mismo estilo, se ubica en el costado sur sobre la Carrera 78B.",
+      "pollution": "El sector de la estación banderas tiene una contaminación de 67 (40 ug/m 3) concentraciones de Pm 2.5 en microgramos por metro cubico.",
+      "tips": "La calidad del aire es insana, toda lo población puede experimentar efectos sobre la salud y los grupos de riesgo efectos mucho más serios. La población con problemas respiratorios, los niños y las personas mayores deben evitar el esfuerzo prolongado o activo en exteriores. La población general debe limitar el esfuerzo prolongado en exteriores."
+    },
+    {
+      "title": "Las aguas: “Eje ambiental",
+      "id": 3,
+      "description": "La estación de Las Aguas forma parte del sistema de transporte masivo de Bogotá llamado Transmilenio inaugurado en el año 2000. En el año 2002, al ser puesto en funcionamiento el ramal del Eje Ambiental, fue puesta en funcionamiento esta estación, junto a las de Museo del Oro y Avenida Jiménez en 2003.",
+      "location": "La estación se encuentra ubicada en el sector del centro histórico de la ciudad, más específicamente sobre la carrera 3 entre la calle 18 y la avenida Ciudad de Lima. Se accede a ella de dos formas distintas: a través de entradas sencillas ubicadas sobre la calle 18 y sobre la avenida Ciudad de Lima, y desde el 27 de abril de 2013, mediante un túnel subterráneo que la conecta con la estación Universidades.",
+      "pollution": "El sector de la estación las aguas tiene una contaminación de 38 (14 ug/m 3) concentraciones de Pm 2.5 en microgramos por metro cubico.",
+      "tips": "La calidad del aire es satisfactoria y existe poco o ningún riesgo para la salud, Se puede realizar cualquier actividad al aire libre."
+    },
+    {
+      "title": "Portal del norte: Troncal norte",
+      "id": 4,
+      "description": "El Portal del Norte es una de las estaciones de cabecera o terminales del Sistema de Transporte Masivo de Bogotá Transmilenio. Hace parte de la primera fase del sistema, la cual fue inaugurada en el año 2000.",
+      "location": "El Portal del Norte está ubicado en el sector Norte de la ciudad, más específicamente sobre la Autopista Norte entre calles 172 y 176. Su acceso peatonal se da a través de un puente peatonal ubicado sobre la Calle 174. Atiende la demanda de los barrios San Antonio Noroccidental, Villa del Prado, Nueva Zelandia, La Uribe y sus alrededores.",
+      "pollution": "El sector del portal Norte tiene una contaminación de 38 (8 ug/m 3) concentraciones de Pm 2.5 en microgramos por metro cubico. ",
+      "tips": "La calidad del aire es satisfactoria sin embargo está a pocos microgramos de ser moderada, se puede realizar cualquier actividad al aire libre, se recomienda no estar mucho tiempo al aire libre si se tiene algún síntoma de enfermedad respiratoria."
+    },
+    {
+      "title": "Portal el dorado: Troncal calle 26",
+      "id": 5,
+      "description": "El Portal El dorado, inaugurado en el año 2012, es una de las estaciones terminales o de cabecera de Transmilenio, el sistema de transporte masivo de Bogotá. Esta estación hace parte de la Fase III del sistema Transmilenio que empezó a construirse a finales de 2009 y, después de varias demoras relacionadas con casos de corrupción, inició operaciones el sábado 30 de junio de 2012",
+      "location": "El Portal Eldorado está ubicado en el occidente de la ciudad, sobre la Avenida El Dorado entre la Avenida Cali y la transversal 93. Tiene accesos por puentes peatonales ubicados sobre estas dos vías.",
+      "pollution": "El sector del portal del Dorado tiene una contaminación de 57 (38 ug/m 3) concentraciones de Pm 2.5 en microgramos por metro cubico.",
+      "tips": "La calidad del aire es regular, las personas que hacen parte de los grupos sensibles pueden presentar síntomas moderados. Considere reducir o reprogramar actividades extenuantes al aire libre si experimenta síntomas, puede presentar tos o irritación de garganta. "
+    },
+    {
+      "title": "Portal 20 de julio: Troncal Decima",
+      "id": 6,
+      "description": "El Portal 20 de Julio es una de las estaciones terminales o de cabecera que forman parte del sistema de transporte masivo de Bogotá, Transmilenio, inaugurado en el año 2000. Esta estación hace parte de la Fase III de Transmilenio que empezó a construirse a finales de 2009 y fue puesta en servicio junto con la troncal carrera décima en septiembre de 2012.",
+      "location": "El portal 20 de julio está ubicado en el suroriente de la ciudad, sobre la Carrera 5A entre calles 30A Sur y 32 Sur. Tiene un acceso peatonal sencillo sobre la Calle 31 Sur. Se desarrolló en un predio donde funcionaba la fábrica de tubos Moore.",
+      "pollution": "El sector del portal del 20 de julio tiene una contaminación de 34 (7 ug/m 3) concentraciones de Pm 2.5 en microgramos por metro cubico.",
+      "tips": "La calidad del aire en este sector es buena, disfrute de las actividades que realiza cotidianamente, calidad del aire ideal para actividades al aire libre."
+    },
+    {
+      "title": "Portal Usme: Troncal caracas sur",
+      "id": 7,
+      "description": "El Portal de Usme es una de las estaciones de cabecera del sistema de transporte masivo de Bogotá llamado Transmilenio inaugurado en el año 2000. En agosto de 2001, unos meses después de la inauguración del sistema, fue inaugurado el Portal de Usme, siendo así la segunda estación cabecera del sistema Transmilenio en ser puesta en funcionamiento.",
+      "location": "El Portal de Usme se encuentra ubicado en el suroriente de la ciudad, específicamente en la Avenida Caracas al sur de la penitenciaría nacional de La Picota en el cruce de la prolongación de la Avenida Boyacá (con calle 63 sur).",
+      "pollution": "El sector del portal Usme tiene una contaminación de 20 (7.21 ug/m 3) concentraciones de Pm 2.5 en microgramos por metro cubico.",
+      "tips": "Calidad del aire aceptable, aunque algunos contaminantes pueden suponer un ligero riesgo para la salud de los grupos de riesgo e individuos sensibles a la polución. Para grupos de riesgo y personas sensibles: considera reducir las actividades prolongadas y activas en exterior. No es peligroso estar en el exterior, pero toma más descansos y disminuye la intensidad de la actividad. Población general: Vigila la aparición de síntomas como tos o falta de aire y, si aparecen, considera reducir la exposición prolongada o activa en el exterior. "
+    },
+    {
+      "title": "Portal del Tunal: Troncal caracas sur",
+      "id": 8,
+      "description": "El Portal del Tunal es una de las estaciones de cabecera del sistema de transporte masivo de Bogotá, Transmilenio inaugurado en el año 2000. Desde finales del año 2018 se convirtió en estación de transferencia entre el sistema Transmilenio y el sistema de cable aéreo TransMiCable hacia la localidad de Ciudad Bolívar.",
+      "location": "El Portal del Tunal se encuentra ubicado en el sector Suroriental de la ciudad, en la localidad de Tunjuelito, frente al Parque El Tunal y específicamente en la intersección de la Avenida Boyacá y Avenida Mariscal Sucre (Carrera 24) con la Avenida Ciudad de Villavicencio. Tiene un acceso peatonal mediante puente peatonal ubicado a la altura de la Avenida Mariscal Sucre.",
+      "pollution": "El sector del portal del Tunal tiene una contaminación de 42 (20 ug/m 3) concentraciones de Pm 2.5 en microgramos por metro cubico.",
+      "tips": "Calidad del aire insana para grupos de riesgo, Los miembros de los grupos de riesgo pueden experimentar efectos para la salud, pero la población general no se ve afectada."
+    },
+    {
+      "title": "Portal Suba: Troncal suba",
+      "id": 9,
+      "description": "El Portal de Suba, inaugurado en el año 2006, es una de las estaciones de cabecera o terminales de Transmilenio, el sistema de transporte masivo de Bogotá. La estación comenzó a funcionar el 29 de abril de 2006, después de varios meses de retraso, sobre todo en las zonas del intercambiador de la Avenida Suba / Avenida NQS / Calle 80 / Calle 170 y en el Alto de la Virgen.",
+      "location": "El Portal de Suba está ubicado en el sector noroccidental de la ciudad, más específicamente sobre la Avenida Suba con Avenida Ciudad de Cali. Atiende la demanda de los barrios Almendros Norte, El Poa, El Pinar, Tibabuyes, Turingia, Lombardía, Pinos de Lombardía y sus alrededores.",
+      "pollution": "El sector del portal del Tunal tiene una contaminación de 38 (3 ug/m 3) concentraciones de Pm 2.5 en microgramos por metro cubico.",
+      "tips": "La calidad del aire es moderada probablemente no afecte a la población general, pero puede presentar un riesgo moderado para los grupos de riesgo.Grupos de riesgo y personas sensibles: Reduce las actividades prolongadas y activas en el exterior. Las personas con asma o enfermedades respiratorias deben seguir cuidadosamente su plan de medicación y usar su inhalador más frecuentemente. Los adultos con problemas del corazón pueden experimentar palpitaciones, dificultad en la respiración o fatiga inusual; si ocurre, busca asistencia médica.Población general: Vigila la aparición de síntomas como tos, irritación de garganta, falta de aire, fatiga excesiva o palpitaciones. Si aparecen, reduce las actividades prolongadas y activas en el exterior."
+    },
+    {
+      "title": "Portal 80: Troncal 80",
+      "id": 10,
+      "description": "El Portal de la 80 es una de las estaciones de cabecera o terminales del sistema de transporte masivo de Bogotá llamado Transmilenio, el cual fue inaugurado en el año 2000.La estación recibe su nombre por ser la estación de cabecera de la línea Calle 80 de Transmilenio. Sin embargo, se proyecta la ampliación de la troncal hasta el Puente de Guadua con el Río Bogotá fronterizo con el municipio de Cota.",
+      "location": "El Portal de la 80 está ubicado en el sector noroccidental de la ciudad, más específicamente en la Avenida Medellín entre la Avenida Longitudinal de Occidente y la carrera 100. Su acceso peatonal está ubicado sobre la Carrera 100, al frente del Centro Comercial Portal 80.",
+      "pollution": "El sector del portal del Tunal tiene una contaminación de 55 (24.73 ug/m 3) concentraciones de Pm 2.5 en microgramos por metro cubico.",
+      "tips": "La calidad del aire es insana, Toda lo población puede experimentar efectos sobre la salud y los grupos de riesgo efectos mucho más serios. La población con problemas respiratorios, los niños y las personas mayores deben evitar el esfuerzo prolongado o activo en exteriores. La población general debe limitar el esfuerzo prolongado en exteriores."
+    },
+    {
+      "title": "Portal del sur: Troncal sur",
+      "id": 11,
+      "description": "El Portal del Sur, inaugurado en el año 2006, es una de las estaciones de cabecera de Transmilenio, el sistema de transporte masivo de Bogotá.La estación recibe su nombre por ser la estación de cabecera de la línea NQS Sur (dentro de la zona de Bogotá), y por ser una de las tres estaciones terminales ubicadas en el sur de Bogotá. Las otras dos adoptan el nombre del área donde se ubican por lo que se decidió darle el nombre de Sur a esta terminal además de su ubicación clara en el sur de la ciudad.",
+      "location": "El Portal del Sur está ubicado en el sector suroccidente de la ciudad, específicamente sobre la Autopista Sur entre la carrera 72D y la transversal 73I, en la localidad de Bosa. Tiene acceso peatonal mediante una entrada sencilla que se ubica sobre la Carrera 73.Atiende la demanda de los barrios Cementerio Jardines Apogeo, Barlovento, Galicia, La Estancia, Olarte y sus alrededores.",
+      "pollution": "El sector del portal del Tunal tiene una contaminación de 114 (24 ug/m 3) concentraciones de Pm 2.5 en microgramos por metro cubico.",
+      "tips": "La calidad del aire es insana, toda lo población puede experimentar efectos sobre la salud y los grupos de riesgo efectos mucho más serios. La población con problemas respiratorios, los niños y las personas mayores deben evitar el esfuerzo prolongado o activo en exteriores. La población general debe limitar el esfuerzo prolongado en exteriores."
+    }
+  ]
+}
