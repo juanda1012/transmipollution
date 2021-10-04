@@ -42,15 +42,15 @@ const Home = (props) => {
       <main className="mainContent" ref={topRef}>
         <Carousel className="carouselContainer" effect="fade">
           <div className="carouselImage">
-            <Image preview={false} src="/Slider/1.jpeg" />
+            <Image preview={false} src="/Slider/1.jpeg" alt="/Slider/1.jpeg" />
           </div>
 
           <div className="carouselImage">
-            <Image preview={false} src="/Slider/2.jpeg" />
+            <Image preview={false} src="/Slider/2.jpeg" alt="/Slider/2.jpeg" />
           </div>
 
           <div className="carouselImage">
-            <Image preview={false} src="/Slider/3.jpeg" />
+            <Image preview={false} src="/Slider/3.jpeg" alt="/Slider/3.jpeg" />
           </div>
         </Carousel>
 
@@ -72,14 +72,24 @@ const Home = (props) => {
 
         <div className="infoContainer">
           <div className="info__item">
-            <Image className="card__image" preview={false} src="/b.jpeg" />
+            <Image
+              className="card__image"
+              preview={false}
+              src="/b.jpeg"
+              alt="info"
+            />
             <div className="card__info">
               <h2 className="card__title">{indexData.topic.name}</h2>
               <p className="card__data">{indexData.topic.info}</p>
             </div>
           </div>
           <div className="info__item">
-            <Image className="card__image" preview={false} src="/a.jpeg" />
+            <Image
+              className="card__image"
+              preview={false}
+              src="/a.jpeg"
+              alt="info"
+            />
             <div className="card__info">
               <h2
                 className="card__title card__link"
@@ -104,7 +114,7 @@ const Home = (props) => {
                 : "Use the information in the table to perform the calculation"}
             </p>
           </div>
-          <Image className="table__image" src="/table.jpg" />
+          <Image className="table__image" src="/table.jpg" alt="table" />
           <div className="info">
             <p>
               {lang === "ES"
@@ -115,6 +125,7 @@ const Home = (props) => {
               className="table__image"
               src="/calculoica.jpeg"
               preview={false}
+              alt="table"
             />
 
             <p>

@@ -7,7 +7,7 @@ import useLang from "../Providers/LangContext";
 import enStationsData from "../data/en/stations.json";
 import esStationsData from "../data/es/stations.json";
 
-const stations = () => {
+const Stations = () => {
   const [lang] = useLang();
   const [data, setStations] = useState(esStationsData);
   useEffect(() => {
@@ -34,4 +34,4 @@ const stations = () => {
   );
 };
 
-export default stations;
+export default Stations;
