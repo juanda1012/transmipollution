@@ -40,7 +40,7 @@ const Home = (props) => {
       </Head>
       <NavBar scroll={{ softwareRef, topRef }} />
       <main className="mainContent" ref={topRef}>
-        <Carousel className="carouselContainer" effect="fade">
+        <Carousel className="carouselContainer" effect="fade" autoplay>
           <div className="carouselImage">
             <Image preview={false} src="/Slider/1.jpeg" alt="/Slider/1.jpeg" />
           </div>
